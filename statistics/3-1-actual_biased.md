@@ -1,6 +1,7 @@
 [Think Stats Chapter 3 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2004.html#toc31) (actual vs. biased)
 
 >> Following guidelines from chap03ex.ipynb, I have come up with the following code:  
+
 `
 import thinkstats2  
 import nsfg  
