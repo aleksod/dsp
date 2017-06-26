@@ -117,7 +117,7 @@ or approximately 45%.
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Frequentist statistic uses experimental data to measure proportions of outcomes while Bayesian statistics links the degree of belief in some proposition before and after experimental data analysis (see [Bayes' theorem Interpretations](https://en.wikipedia.org/wiki/Bayes%27_theorem#Interpretations)).
 
 ---
 
